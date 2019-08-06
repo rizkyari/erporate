@@ -1,0 +1,8 @@
+connect to json server inside public --> FAKE API:
+run in terminal :json-server --watch db.json
+
+and then, open another terminal : npm start
+
+
+if you want to see without API : https://erporate.herokuapp.com/
+Github Link : https://github.com/rizkyari/erporate
