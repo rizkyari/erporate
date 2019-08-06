@@ -1,0 +1,47 @@
+/* Gambar carousel */
+.image1 {
+    height: 550px;
+    width:100%;
+    background-image: url('../components/img/image1.jpg');
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+	
+}
+
+.image2 {
+    height: 550px;
+    width:100%;
+    background-image: url('../components/img/image2.jpg');
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+	
+}
+
+.image3 {
+    height: 550px;
+    width:100%;
+    background-image: url('../components/img/image3.jpg');
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+	
+}
+
+div.card-body img.detail {
+    width: 40px !important
+}
+
+table img.list {
+    width: 30px !important
+}
+
+.video {
+    text-align: center;
+    margin-left: 25%;
+}
+
+.map {
+    text-align: center;
+}

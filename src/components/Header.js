@@ -1,4 +1,5 @@
-import React from 'react';
+import React,{Component} from 'react';
+import { Link } from "react-router-dom";
 
 import Logo from './img/Erporate.png'
 
@@ -17,16 +18,16 @@ class Header extends React.Component {
                         <div className="collapse navbar-collapse" id="navbarResponsive">
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item active">
-                                    <a className="nav-link text-dark" href="#">Home </a>
+                                    <Link to="/" className="nav-link text-dark" >Home </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-dark" href="#">Products</a>
+                                    <Link to="/product" className="nav-link text-dark">Products</Link>
                                 </li>
                                 <li class="nav-item">
-                                    <a className="nav-link text-dark" href="#">Article</a>
+                                    <Link to="/article" className="nav-link text-dark">Article</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-dark" href="#">About Us</a>
+                                    <Link to="/about" className="nav-link text-dark">About Us</Link>
                                 </li>
                             </ul>
                         </div>
