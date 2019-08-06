@@ -6,6 +6,7 @@ import Carousel from './Carousel';
 import Highlight from './Highlight';
 import News from './News'
 import Location from './Location'
+import Footer from '../Footer'
 
 class Home extends React.Component {
     render () {
@@ -16,6 +17,7 @@ class Home extends React.Component {
                 <Highlight />
                 <News />
                 <Location />
+                <Footer />
             </div>
         )
     }

@@ -25,7 +25,7 @@
         "name": "Lorem",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "price": "75000",
-        "src": "http://www.medievalcollectibles.com/images/Product/large/RT-151.png",
+        "src": "https://maestrojersey.com/wp-content/uploads/2017/09/jersey-skeleton-buat-jersey-futsal.jpg",
         "id": 4
       },
       {
@@ -39,7 +39,7 @@
         "name": "Lorem",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "price": "210000",
-        "src": "http://www.expresskonveksi.com/image-product/img8-1303107013.jpg",
+        "src": "https://d3ieicw58ybon5.cloudfront.net/ex/1200.1200/shop/product/0954ba39045d4b04a29e197a7d35f4be.jpg",
         "id": 6
       }
     ],
@@ -48,19 +48,19 @@
         "id":"1",
         "judul":"Api",
         "desc":"lorem",
-        "src":"http://www.expresskonveksi.com/image-product/img8-1303107013.jpg"
+        "src":"https://zahal.org/wp-content/uploads/2017/09/Marom-Dolphin-BA8029-Tactical-Vest-armor-carrier-1000x1000.jpg"
       },
       {
         "id":"2",
         "judul":"Api",
         "desc":"lorem",
-        "src":"http://www.expresskonveksi.com/image-product/img8-1303107013.jpg"
+        "src":"https://zahal.org/wp-content/uploads/2017/09/Marom-Dolphin-BA8029-Tactical-Vest-armor-carrier-1000x1000.jpg"
       },
       {
         "id":"3",
         "judul":"Api",
         "desc":"lorem",
-        "src":"http://www.expresskonveksi.com/image-product/img8-1303107013.jpg"
+        "src":"https://zahal.org/wp-content/uploads/2017/09/Marom-Dolphin-BA8029-Tactical-Vest-armor-carrier-1000x1000.jpg"
       }
       
     ]

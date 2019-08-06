@@ -23,7 +23,7 @@ class Highlight extends Component {
                             tempore perspiciatis repudiandae hic?
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore reiciendis, voluptate at alias laborum odit aliquid
                             tempore perspiciatis repudiandae hic?</p>
-                            <Link to="/product" class="btn btn-outline-secondary">Find Out More</Link>
+                            <Link to="/product" className="btn btn-outline-secondary">Go To Products</Link>
                         </div>
                         
                     </div>
